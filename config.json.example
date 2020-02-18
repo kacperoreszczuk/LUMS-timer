@@ -1,0 +1,23 @@
+﻿[
+	{
+		"yellow_warning_time":{"1500":300, "720":180},
+		"scaling":100,
+		"annoucement_text":"Announcement"
+	},
+	[
+		{"duration":0, "name":""}, 
+		{"duration":1500, "name":"R. Markov"},
+		{"duration":1500, "name":"M. Very-Long-Surname-Johnson"},
+		{"duration":720, "name":"W. Müller"},
+		{"duration":720, "name":"M. Patter"},
+		{"duration":720, "name":"S. Łaski"},
+		{"duration":0, "name":"Coffee Break"},
+		{"duration":1500, "name":"M. Höfner"},
+		{"duration":1500, "name":"M. Nardi"},
+		{"duration":720, "name":"M. Bennett"},
+		{"duration":720, "name":"J. Robinson"},
+		{"duration":0, "name":"Closing"},
+		{"duration":0, "name":"Lunch"},
+		{"duration":0, "name":"End of the conference"}
+	]
+]
