@@ -28,3 +28,5 @@ REQUIREMENTS:
 ATTENTION: This was tested on Windows 10. On Windows 7 there are some problems with fonts. Python library pygame detects Cambria font as needed, but fails to display it properly. Not debugged. Not tested on Linux.
 
 NOTE: If you make some nice upgrades to this software, you may notify me. I will be glad to see them and use them.
+
+TAGS: timer conference meeting speaker agenda presentation countdown time tracking time keeping
